@@ -1,3 +1,3 @@
-# https://hokhua.github.io/tchns.html
+# https://hokhua.github.io/index.html
 # https://linkovych.github.io/petHouse/
 
